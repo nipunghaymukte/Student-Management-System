@@ -5,7 +5,7 @@ function Contact() {
 
       <p>Developer: Nipun</p>
       <p>Course: Diploma Computer Engineering</p>
-      <p>Email: nipun@example.com</p>
+      <p>Email: nipunghaymukte@gmail.com</p>
     </div>
   );
 }
